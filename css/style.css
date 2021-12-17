@@ -286,6 +286,7 @@ img {
 }
 
 .about_description {
+  margin-left: var(--mb-3);
   margin-bottom: var(--mb-4);
 }
 
